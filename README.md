@@ -10,8 +10,8 @@ LCVPN is
   - Works only on Linux (uses TUN device)
   - Support of basic routing - can be used to connect several networks
   - Multithread send and receive - scaleable for big traffc
-  - Due to use so_reuseport better results in case of a larger number of hosts
-  - It's still in beta stage, use it at your own risk (and please use only versions marked as "release")
+  - Uses so_reuseport for better results in case of a larger number of hosts
+  - It's still in beta, use it at your own risk (and please use only versions marked as "release")
 
 ![alt tag](https://raw.githubusercontent.com/nexweb/lcvpn/master/topology.png)
 
