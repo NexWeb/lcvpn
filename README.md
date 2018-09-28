@@ -13,14 +13,14 @@ So, LCVPN is
   - Due to use so_reuseport better result in case of bigger number of hosts
   - It's still in beta stage, use it on your own risk (and please use only versions marked as "release")
 
-![alt tag](https://raw.githubusercontent.com/kanocz/lcvpn/master/topology.png)
+![alt tag](https://raw.githubusercontent.com/nexweb/lcvpn/master/topology.png)
 
 ### Install and run
 
 You need golang (at least 1.5) installed and configured:
 
 ```sh
-$ go get -u github.com/kanocz/lcvpn
+$ go get -u github.com/nexweb/lcvpn
 ```
 
 if you have config in /etc/lcvpn.conf
