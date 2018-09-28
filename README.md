@@ -1,6 +1,6 @@
-# LCVPN - Light decentralized VPN in golang
+# LCVPN - Light decentralized VPN in Golang
 
-Originally this repo was just an answer to the question "how much time it'll take to write my own simple VPN in golang" (answer is about 3 hours for the first prototype), but now it used in production in many different environments.
+Originally this repo was just an answer to the question "how much time it'll take to write my own simple VPN in Golang" (answer is about 3 hours for the first prototype), but now it used in production in many different environments.
 
 LCVPN is
   - Very light and easy (one similar config on all hosts)
